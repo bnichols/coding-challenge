@@ -3,3 +3,4 @@ The purpose of this project is to take a static HTML webpage and convert it into
 
 You should also develop a set of API endpoints to accomplish this dynamic dashboard.
 
+![Dashboard Image](https://github.com/bnichols/coding-challenge/raw/master/Honeywell-Dashboard.jpg)
