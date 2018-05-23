@@ -45,10 +45,6 @@
   body.hamburg .row.header .meta {
     margin-left: 70px;
   }
-  body.hamburg #sidebar-wrapper ul.sidebar li.sidebar-main,
-  body.hamburg #page-wrapper.open #sidebar-wrapper ul.sidebar li.sidebar-main {
-    transition: margin-left 0.4s ease 0s;
-  }
 }
 
 /**
@@ -231,10 +227,6 @@ body {
   height: 100%;
   z-index: 999;
 }
-#page-wrapper,
-#sidebar-wrapper {
-  transition: all .4s ease 0s;
-}
 .green {
   background: #23ae89 !important;
 }
@@ -315,7 +307,6 @@ ul.sidebar .sidebar-title {
   height: 35px;
   line-height: 40px;
   text-transform: uppercase;
-  transition: all .6s ease 0s;
 }
 ul.sidebar .sidebar-list {
   height: 40px;
@@ -367,7 +358,6 @@ ul.sidebar .sidebar-list .menu-icon {
   width: 100%;
   padding: 0;
   margin: 0;
-  transition: all .6s ease 0s;
   text-align: center;
 }
 .sidebar-footer div a {
